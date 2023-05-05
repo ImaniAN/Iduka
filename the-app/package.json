@@ -1,0 +1,11 @@
+{
+  "name": "the-app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "setup": "evershop install",
+    "start": "evershop start",
+    "build": "evershop build",
+    "dev": "evershop dev"
+  }
+}
