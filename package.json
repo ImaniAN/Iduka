@@ -2,6 +2,7 @@
   "scripts": {
     "setup": "evershop install",
     "build": "evershop build",
+    
     "start": "evershop start"
 },
 
