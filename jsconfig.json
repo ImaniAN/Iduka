@@ -1,0 +1,17 @@
+{
+    "compilerOptions": {
+      "baseUrl": ".",
+      "paths": {
+        "@components/*": [
+          "./themes/<Your Theme Folder>/components/*",
+          "./node_modules/@evershop/evershop/src/components/*"
+        ],
+        "@components-origin/*": [
+          "./node_modules/@evershop/evershop/src/components/*"
+        ],
+        "@default-theme/*" : [
+          "./node_modules/@evershop/evershop/src/modules/*/pages/*"
+        ]
+      }
+    }
+  }
