@@ -1,12 +1,12 @@
 {
   "scripts": {
-    "setup": "evershop install",
+    "setup": "evershop setup",
     "build": "evershop build",
-    
-    "start": "evershop start"
+    "start": "evershop start",
+    "dev": "evershop dev"
 },
 
-  "dependencies": {
-    "@evershop/evershop": "^1.0.0-rc.3"
-  }
+"dependencies": {
+  "@evershop/evershop": "^1.0.0-rc.3"
+}
 }
