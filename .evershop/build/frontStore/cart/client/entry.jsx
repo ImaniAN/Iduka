@@ -9,69 +9,69 @@ Area.defaultProps.components = {
     XG5vZGVfbW9kdWxlc1xAZXZlcnNob3BcZXZlcnNob3Bcc3JjXG1vZHVsZXNcY2hlY2tvdXRccGFnZXNcZnJvbnRTdG9yZVxhbGxcTWluaUNhcnQuanN4: {
       id: 'XG5vZGVfbW9kdWxlc1xAZXZlcnNob3BcZXZlcnNob3Bcc3JjXG1vZHVsZXNcY2hlY2tvdXRccGFnZXNcZnJvbnRTdG9yZVxhbGxcTWluaUNhcnQuanN4',
       sortOrder: 10,
-      component: require('C:\\Users\\imani\\OneDrive\\Desktop\\GitHub Projects\\ImaniAN\\Iduka\\node_modules\\@evershop\\evershop\\src\\modules\\checkout\\pages\\frontStore\\all\\MiniCart.jsx')
+      component: require('C:\\Users\\imani\\OneDrive\\Desktop\\GitHub Projects\\Iduka\\node_modules\\@evershop\\evershop\\src\\modules\\checkout\\pages\\frontStore\\all\\MiniCart.jsx')
     },
     XG5vZGVfbW9kdWxlc1xAZXZlcnNob3BcZXZlcnNob3Bcc3JjXG1vZHVsZXNcY21zXHBhZ2VzXGZyb250U3RvcmVcYWxsXE1vYmlsZU1lbnUuanN4: {
       id: 'XG5vZGVfbW9kdWxlc1xAZXZlcnNob3BcZXZlcnNob3Bcc3JjXG1vZHVsZXNcY21zXHBhZ2VzXGZyb250U3RvcmVcYWxsXE1vYmlsZU1lbnUuanN4',
       sortOrder: 50,
-      component: require('C:\\Users\\imani\\OneDrive\\Desktop\\GitHub Projects\\ImaniAN\\Iduka\\node_modules\\@evershop\\evershop\\src\\modules\\cms\\pages\\frontStore\\all\\MobileMenu.jsx')
+      component: require('C:\\Users\\imani\\OneDrive\\Desktop\\GitHub Projects\\Iduka\\node_modules\\@evershop\\evershop\\src\\modules\\cms\\pages\\frontStore\\all\\MobileMenu.jsx')
     },
     XG5vZGVfbW9kdWxlc1xAZXZlcnNob3BcZXZlcnNob3Bcc3JjXG1vZHVsZXNcY3VzdG9tZXJccGFnZXNcZnJvbnRTdG9yZVxhbGxcVXNlckljb24uanN4: {
       id: 'XG5vZGVfbW9kdWxlc1xAZXZlcnNob3BcZXZlcnNob3Bcc3JjXG1vZHVsZXNcY3VzdG9tZXJccGFnZXNcZnJvbnRTdG9yZVxhbGxcVXNlckljb24uanN4',
       sortOrder: 30,
-      component: require('C:\\Users\\imani\\OneDrive\\Desktop\\GitHub Projects\\ImaniAN\\Iduka\\node_modules\\@evershop\\evershop\\src\\modules\\customer\\pages\\frontStore\\all\\UserIcon.jsx')
+      component: require('C:\\Users\\imani\\OneDrive\\Desktop\\GitHub Projects\\Iduka\\node_modules\\@evershop\\evershop\\src\\modules\\customer\\pages\\frontStore\\all\\UserIcon.jsx')
     }
   },
   content: {
     'XG5vZGVfbW9kdWxlc1xAZXZlcnNob3BcZXZlcnNob3Bcc3JjXG1vZHVsZXNcY2hlY2tvdXRccGFnZXNcZnJvbnRTdG9yZVxjYXJ0XFNob3BwaW5nQ2FydC5qc3g=': {
       id: 'XG5vZGVfbW9kdWxlc1xAZXZlcnNob3BcZXZlcnNob3Bcc3JjXG1vZHVsZXNcY2hlY2tvdXRccGFnZXNcZnJvbnRTdG9yZVxjYXJ0XFNob3BwaW5nQ2FydC5qc3g=',
       sortOrder: 1,
-      component: require('C:\\Users\\imani\\OneDrive\\Desktop\\GitHub Projects\\ImaniAN\\Iduka\\node_modules\\@evershop\\evershop\\src\\modules\\checkout\\pages\\frontStore\\cart\\ShoppingCart.jsx')
+      component: require('C:\\Users\\imani\\OneDrive\\Desktop\\GitHub Projects\\Iduka\\node_modules\\@evershop\\evershop\\src\\modules\\checkout\\pages\\frontStore\\cart\\ShoppingCart.jsx')
     }
   },
   shoppingCartRight: {
     XG5vZGVfbW9kdWxlc1xAZXZlcnNob3BcZXZlcnNob3Bcc3JjXG1vZHVsZXNcY2hlY2tvdXRccGFnZXNcZnJvbnRTdG9yZVxjYXJ0XFN1bW1hcnkuanN4: {
       id: 'XG5vZGVfbW9kdWxlc1xAZXZlcnNob3BcZXZlcnNob3Bcc3JjXG1vZHVsZXNcY2hlY2tvdXRccGFnZXNcZnJvbnRTdG9yZVxjYXJ0XFN1bW1hcnkuanN4',
       sortOrder: 10,
-      component: require('C:\\Users\\imani\\OneDrive\\Desktop\\GitHub Projects\\ImaniAN\\Iduka\\node_modules\\@evershop\\evershop\\src\\modules\\checkout\\pages\\frontStore\\cart\\Summary.jsx')
+      component: require('C:\\Users\\imani\\OneDrive\\Desktop\\GitHub Projects\\Iduka\\node_modules\\@evershop\\evershop\\src\\modules\\checkout\\pages\\frontStore\\cart\\Summary.jsx')
     }
   },
   body: {
     'XG5vZGVfbW9kdWxlc1xAZXZlcnNob3BcZXZlcnNob3Bcc3JjXG1vZHVsZXNcY21zXHBhZ2VzXGZyb250U3RvcmVcYWxsXExheW91dC5qc3g=': {
       id: 'XG5vZGVfbW9kdWxlc1xAZXZlcnNob3BcZXZlcnNob3Bcc3JjXG1vZHVsZXNcY21zXHBhZ2VzXGZyb250U3RvcmVcYWxsXExheW91dC5qc3g=',
       sortOrder: 1,
-      component: require('C:\\Users\\imani\\OneDrive\\Desktop\\GitHub Projects\\ImaniAN\\Iduka\\node_modules\\@evershop\\evershop\\src\\modules\\cms\\pages\\frontStore\\all\\Layout.jsx')
+      component: require('C:\\Users\\imani\\OneDrive\\Desktop\\GitHub Projects\\Iduka\\node_modules\\@evershop\\evershop\\src\\modules\\cms\\pages\\frontStore\\all\\Layout.jsx')
     },
     'XG5vZGVfbW9kdWxlc1xAZXZlcnNob3BcZXZlcnNob3Bcc3JjXG1vZHVsZXNcY21zXHBhZ2VzXGZyb250U3RvcmVcYWxsXE5vdGlmaWNhdGlvbi5qc3g=': {
       id: 'XG5vZGVfbW9kdWxlc1xAZXZlcnNob3BcZXZlcnNob3Bcc3JjXG1vZHVsZXNcY21zXHBhZ2VzXGZyb250U3RvcmVcYWxsXE5vdGlmaWNhdGlvbi5qc3g=',
       sortOrder: 10,
-      component: require('C:\\Users\\imani\\OneDrive\\Desktop\\GitHub Projects\\ImaniAN\\Iduka\\node_modules\\@evershop\\evershop\\src\\modules\\cms\\pages\\frontStore\\all\\Notification.jsx')
+      component: require('C:\\Users\\imani\\OneDrive\\Desktop\\GitHub Projects\\Iduka\\node_modules\\@evershop\\evershop\\src\\modules\\cms\\pages\\frontStore\\all\\Notification.jsx')
     }
   },
   header: {
     XG5vZGVfbW9kdWxlc1xAZXZlcnNob3BcZXZlcnNob3Bcc3JjXG1vZHVsZXNcY21zXHBhZ2VzXGZyb250U3RvcmVcYWxsXExvZ28uanN4: {
       id: 'XG5vZGVfbW9kdWxlc1xAZXZlcnNob3BcZXZlcnNob3Bcc3JjXG1vZHVsZXNcY21zXHBhZ2VzXGZyb250U3RvcmVcYWxsXExvZ28uanN4',
       sortOrder: 1,
-      component: require('C:\\Users\\imani\\OneDrive\\Desktop\\GitHub Projects\\ImaniAN\\Iduka\\node_modules\\@evershop\\evershop\\src\\modules\\cms\\pages\\frontStore\\all\\Logo.jsx')
+      component: require('C:\\Users\\imani\\OneDrive\\Desktop\\GitHub Projects\\Iduka\\node_modules\\@evershop\\evershop\\src\\modules\\cms\\pages\\frontStore\\all\\Logo.jsx')
     },
     XG5vZGVfbW9kdWxlc1xAZXZlcnNob3BcZXZlcnNob3Bcc3JjXG1vZHVsZXNcY21zXHBhZ2VzXGZyb250U3RvcmVcYWxsXE1lbnUuanN4: {
       id: 'XG5vZGVfbW9kdWxlc1xAZXZlcnNob3BcZXZlcnNob3Bcc3JjXG1vZHVsZXNcY21zXHBhZ2VzXGZyb250U3RvcmVcYWxsXE1lbnUuanN4',
       sortOrder: 5,
-      component: require('C:\\Users\\imani\\OneDrive\\Desktop\\GitHub Projects\\ImaniAN\\Iduka\\node_modules\\@evershop\\evershop\\src\\modules\\cms\\pages\\frontStore\\all\\Menu.jsx')
+      component: require('C:\\Users\\imani\\OneDrive\\Desktop\\GitHub Projects\\Iduka\\node_modules\\@evershop\\evershop\\src\\modules\\cms\\pages\\frontStore\\all\\Menu.jsx')
     }
   },
   head: {
     XG5vZGVfbW9kdWxlc1xAZXZlcnNob3BcZXZlcnNob3Bcc3JjXG1vZHVsZXNcY21zXHBhZ2VzXGZyb250U3RvcmVcYWxsXE1ldGEuanN4: {
       id: 'XG5vZGVfbW9kdWxlc1xAZXZlcnNob3BcZXZlcnNob3Bcc3JjXG1vZHVsZXNcY21zXHBhZ2VzXGZyb250U3RvcmVcYWxsXE1ldGEuanN4',
       sortOrder: 5,
-      component: require('C:\\Users\\imani\\OneDrive\\Desktop\\GitHub Projects\\ImaniAN\\Iduka\\node_modules\\@evershop\\evershop\\src\\modules\\cms\\pages\\frontStore\\all\\Meta.jsx')
+      component: require('C:\\Users\\imani\\OneDrive\\Desktop\\GitHub Projects\\Iduka\\node_modules\\@evershop\\evershop\\src\\modules\\cms\\pages\\frontStore\\all\\Meta.jsx')
     }
   },
   shoppingCartLeft: {
     XG5vZGVfbW9kdWxlc1xAZXZlcnNob3BcZXZlcnNob3Bcc3JjXG1vZHVsZXNccHJvbW90aW9uXHBhZ2VzXGZyb250U3RvcmVcY2FydFxDb3Vwb24uanN4: {
       id: 'XG5vZGVfbW9kdWxlc1xAZXZlcnNob3BcZXZlcnNob3Bcc3JjXG1vZHVsZXNccHJvbW90aW9uXHBhZ2VzXGZyb250U3RvcmVcY2FydFxDb3Vwb24uanN4',
       sortOrder: 20,
-      component: require('C:\\Users\\imani\\OneDrive\\Desktop\\GitHub Projects\\ImaniAN\\Iduka\\node_modules\\@evershop\\evershop\\src\\modules\\promotion\\pages\\frontStore\\cart\\Coupon.jsx')
+      component: require('C:\\Users\\imani\\OneDrive\\Desktop\\GitHub Projects\\Iduka\\node_modules\\@evershop\\evershop\\src\\modules\\promotion\\pages\\frontStore\\cart\\Coupon.jsx')
     }
   }
 } 
